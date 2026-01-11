@@ -582,7 +582,7 @@ You will continue to refine your judgment.
 
 That process never really ends—and that’s not a weakness. It’s the nature of the work.
 
-If you want to explore practical QA documents and tools that reflect the ideas discussed here, you can find them at **panjatanlabs.com**. Everything there is built with the same principle in mind: usefulness over noise.
+If you want to explore practical QA documents and tools that reflect the ideas discussed here, you can find them at **https://panjatan-labs.vercel.app/**. Everything there is built with the same principle in mind: usefulness over noise.
 
 Thank you for reading.
 
