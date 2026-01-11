@@ -294,3 +294,52 @@ In the next chapter, we’ll challenge another common assumption: the idea that 
 
 ---
 
+## Chapter 6  
+### Why Test Cases Are Not the Point
+
+At some stage in most QA careers, test cases begin to feel like the center of everything.
+
+How many were written.  
+How many were executed.  
+How many passed or failed.
+
+Metrics grow around them. Dashboards track them. Meetings reference them. And slowly, test cases start to feel like the goal of QA work.
+
+They are not.
+
+Test cases are **tools for thinking**, not proof of quality.
+
+A test case is a way to document an idea about how the system should behave. It captures assumptions, expectations, and scenarios. But executing a large number of test cases does not automatically mean meaningful testing has happened.
+
+Many teams have experienced this firsthand. Hundreds of test cases pass, yet a critical issue still reaches production. When that happens, the question is rarely “Why didn’t we have enough test cases?” It’s usually “Why didn’t we test *that*?”
+
+This is where intent matters.
+
+A small number of well-chosen test cases, guided by risk, can be more valuable than a large suite created for coverage alone. Test cases that exist only to satisfy a process quickly lose relevance as the product changes.
+
+In real projects, test cases often serve different purposes at different times:
+- Early on, they help understand requirements
+- During development, they provide structure
+- Near release, they offer confidence and traceability
+
+But they are never a substitute for thinking.
+
+This is why experienced testers often rely on a mix of approaches. They use test cases where structure is helpful and exploratory testing where learning is more important. They adjust based on time, risk, and change—not habit.
+
+Another common trap is believing that detailed test cases protect you from blame. They don’t. What protects you is **clear communication** about what was tested, what wasn’t, and why.
+
+A manager is less interested in how many test cases you executed and more interested in whether you understood the risks. A developer cares less about the format of a test case and more about whether a reported issue is clear and actionable.
+
+This doesn’t mean test cases are unnecessary. It means they should serve a purpose beyond documentation.
+
+Before writing or executing a test case, it helps to ask:
+*What insight will this give us?*
+
+If the answer is “it satisfies the process,” that may be acceptable—but it’s important to recognize the limit of that value.
+
+When test cases are treated as the point, QA becomes mechanical. When they are treated as one of many tools, QA becomes thoughtful.
+
+In the next chapter, we’ll move from structure to communication and explore how bug reports, conversations, and context often matter more than the number of issues logged.
+
+---
+
