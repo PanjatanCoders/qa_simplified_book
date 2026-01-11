@@ -459,3 +459,81 @@ In the next chapter, we’ll look at common mistakes many testers make early on�
 
 ---
 
+## Chapter 9  
+### Common Mistakes Early Testers Make (Without Shaming)
+
+Every QA tester makes mistakes early in their career.
+
+That’s not a flaw.  
+That’s how the role is learned.
+
+The problem isn’t making mistakes—it’s not recognizing which ones actually slow growth and create unnecessary stress. This chapter isn’t about pointing fingers. It’s about naming patterns so you can move past them sooner.
+
+One common mistake is equating **busyness with value**. Many early testers try to prove their worth by staying constantly active. They execute everything assigned, attend every meeting, and respond instantly to messages. Over time, this creates exhaustion without clarity. Being busy is visible. Being effective takes intention.
+
+Another frequent mistake is assuming that **more detail always equals better QA**. Extremely long test cases, overly verbose bug reports, and excessive documentation can actually hide what matters. Clarity is more valuable than volume. When everything is detailed, nothing stands out.
+
+Some testers also fall into the trap of **avoiding questions to appear competent**. They worry that asking questions will make them look inexperienced. In reality, silence creates more problems than curiosity. Teams trust testers who ask thoughtful questions far more than testers who quietly guess.
+
+There’s also a tendency to take feedback personally. When a bug is questioned, deferred, or closed as “won’t fix,” it can feel like rejection. But most of the time, it’s a business decision, not a judgment on your ability. Learning to separate your work from your identity is an important professional skill.
+
+Another mistake is trying to **specialize too early**. Some testers rush into automation or performance testing before they understand products, workflows, and risk. Specialization makes sense later. Early on, understanding how systems behave matters more than mastering a specific tool.
+
+Finally, many early testers underestimate the importance of **communication timing**. Raising a concern too late—even if it’s valid—reduces its impact. QA effectiveness is not just about what you say, but *when* you say it.
+
+None of these mistakes mean you’re failing. They mean you’re learning.
+
+The goal isn’t to avoid every misstep. The goal is to notice patterns and adjust sooner rather than later. Each project gives you feedback—not just about the product, but about how you work.
+
+In the final chapter, we’ll step back and look at how confidence in QA is actually built over time—and why it has less to do with certainty than most people think.
+
+---
+
+## Chapter 10  
+### How Confidence in QA Is Really Built
+
+Many testers believe confidence comes from certainty.
+
+Knowing every tool.  
+Having all the answers.  
+Never missing a bug.
+
+That kind of confidence doesn’t last—because QA work is built on uncertainty. Requirements change. Systems evolve. Trade-offs are constant. Waiting to feel “fully confident” before acting only creates hesitation.
+
+Real confidence in QA is built differently.
+
+It comes from **clarity**, not certainty.
+
+Confident testers are not the ones who claim everything is covered. They are the ones who can clearly explain what they know, what they don’t know, and why it matters. They understand the limits of their work and communicate those limits without fear.
+
+Confidence grows when you:
+- Understand the product better with each iteration
+- Recognize patterns in where issues usually appear
+- Communicate risks early and calmly
+- Accept that some outcomes are outside your control
+
+None of this happens overnight.
+
+Confidence is the result of repeated exposure to real projects, real constraints, and real decisions. Each release teaches you something—about the system, the team, and yourself. Over time, those lessons compound.
+
+This is why experienced testers often appear calm even under pressure. They’ve learned that uncertainty is normal. They don’t rush to prove value. They focus on providing clarity where it’s needed most.
+
+It’s also important to understand that confidence does not mean being loud or dominant. Some of the most effective QA professionals are quiet, thoughtful, and precise. Their confidence comes from understanding context, not from asserting authority.
+
+If you take one idea from this book, let it be this:
+
+> Your job as a QA professional is not to eliminate uncertainty, but to make it visible and manageable.
+
+When you focus on that responsibility, the rest begins to fall into place. Tools make more sense. Processes feel less rigid. Decisions feel less personal.
+
+QA stops feeling like a role you have to defend—and starts feeling like a contribution you understand.
+
+This book was written to reduce noise, not replace experience. Real understanding comes from applying these ideas in your own projects, in your own context.
+
+Take what’s useful.  
+Ignore what doesn’t fit.  
+And give yourself permission to grow at a steady pace.
+
+That’s how sustainable QA careers are built.
+
+---
