@@ -52,3 +52,68 @@ You don’t need to have all the answers.
 What you do need is **clarity about the role**, not noise around it.
 
 And that’s where we’ll begin.
+---
+
+## Chapter 2  
+### What QA Is Actually Responsible For
+
+One of the biggest sources of confusion in QA comes from a simple question that rarely gets a clear answer:
+
+*What am I actually responsible for?*
+
+Ask five people in a team, and you may get five different answers. Some will say QA is responsible for finding bugs. Others will say QA ensures quality. Some expect QA to block releases. Others expect QA to “support development.”
+
+The truth sits somewhere in between—and it’s far less dramatic than most people assume.
+
+At its core, QA is responsible for **providing information about risk and quality** so that informed decisions can be made.
+
+Not perfect software.  
+Not zero bugs.  
+Not guarantees.
+
+QA provides **visibility**.
+
+In real projects, QA’s primary responsibility is to answer questions like:
+- What has been tested?
+- What has not been tested?
+- Where are the risks?
+- How confident are we about this release?
+
+That’s it.
+
+Everything else—test cases, bug reports, automation, documentation—exists to support this responsibility.
+
+This is where many early testers get stuck. They believe that if a bug escapes to production, they personally failed. In reality, bugs escape for many reasons: time constraints, changing requirements, environment gaps, business decisions. QA’s job is not to eliminate uncertainty, but to **make uncertainty visible**.
+
+A good QA does not say:
+> “Everything is tested.”
+
+A good QA says:
+> “These areas are well covered. These areas are partially covered. These areas carry risk.”
+
+That distinction matters.
+
+Another important part of QA responsibility is **communication**. Testing without communication is just private investigation. QA work only becomes valuable when it is clearly communicated—to developers, managers, and stakeholders.
+
+This includes:
+- Explaining issues in a way developers can act on
+- Updating managers without creating panic
+- Raising concerns early, not at the last moment
+
+Notice what’s missing here: heroics.
+
+QA is not about catching everything at the last second. It’s about steady, transparent involvement throughout the project.
+
+In mature teams, QA is part of conversations early on. In less mature teams, QA joins later and works with whatever context is available. In both cases, the responsibility remains the same: **make quality and risk visible within the constraints you have**.
+
+This also means QA is not solely responsible for quality. Quality is a shared outcome. Developers build it. Product defines it. Business prioritizes it. QA observes, questions, validates, and reports on it.
+
+Once you internalize this, a lot of pressure disappears.
+
+You stop trying to be perfect.  
+You stop taking blame personally.  
+You start focusing on clarity instead of coverage numbers.
+
+And that shift—from ownership of outcomes to ownership of visibility—is what separates sustainable QA careers from exhausting ones.
+
+In the next chapter, we’ll look at the other side of this coin: **what QA is not responsible for**, and why understanding that boundary is just as important.
