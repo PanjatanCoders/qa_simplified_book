@@ -343,3 +343,64 @@ In the next chapter, we’ll move from structure to communication and explore ho
 
 ---
 
+## Chapter 7  
+### Bugs, Reports, and the Politics of Communication
+
+Most testers learn how to log bugs long before they learn how bugs are *received*.
+
+They learn to write steps.  
+They attach screenshots.  
+They set severity and priority.
+
+And still, some bugs are ignored, questioned, or quietly deprioritized.
+
+This is not always about the bug itself.  
+Often, it’s about **communication**.
+
+In real projects, bug reports are not just technical artifacts. They are messages sent between people under pressure. Developers are balancing timelines. Managers are balancing priorities. Product teams are balancing business expectations.
+
+Your bug report enters that ecosystem.
+
+A clearly written bug reduces friction.  
+An unclear one increases resistance—even if the issue is real.
+
+This is why two testers can report the same issue and get very different reactions. One report leads to immediate action. The other triggers debate.
+
+The difference is rarely the tool. It’s context.
+
+Effective bug communication answers three unspoken questions:
+- What exactly is wrong?
+- Why does it matter?
+- What is the impact if it’s not fixed?
+
+Steps and screenshots answer the first question.  
+Impact answers the other two.
+
+Early testers often focus heavily on reproduction steps and forget to explain *why anyone should care*. Without that context, the issue becomes just another item in a long list.
+
+Another common mistake is treating bug reporting as confrontation. It’s not. QA is not pointing fingers. QA is sharing information so the team can decide what to do next.
+
+This is why tone matters.
+
+A report that sounds accusatory creates defensiveness.  
+A report that sounds neutral invites collaboration.
+
+Instead of implying fault, focus on behavior:
+- What happened
+- What was expected
+- Where the risk lies
+
+There is also an unspoken reality in most teams: not all bugs are equal, even if they look equal on paper. Business impact, user visibility, and timing influence decisions. Understanding this doesn’t weaken QA—it makes QA more effective.
+
+When a bug is questioned or deferred, it doesn’t automatically mean your work was poor. It often means the team made a trade-off. Your responsibility is to ensure that trade-off was made with clear information.
+
+Sometimes that information is delivered through a bug report. Sometimes it’s delivered through a conversation. Knowing when to write and when to talk is part of growing as a QA professional.
+
+Strong testers learn this balance over time. They don’t fight every decision. They don’t go silent either. They communicate calmly, clearly, and consistently.
+
+This is how trust is built.
+
+In the next chapter, we’ll step back from bugs and tools and focus on something many testers overlook early on: what actually deserves your attention in your first QA projects—and what doesn’t.
+
+---
+
