@@ -404,3 +404,58 @@ In the next chapter, we’ll step back from bugs and tools and focus on somethin
 
 ---
 
+## Chapter 8  
+### What Actually Matters in Your First QA Project
+
+When you join your first QA project, everything feels important.
+
+Every feature.  
+Every test case.  
+Every bug.  
+Every meeting.
+
+This is overwhelming, and it often leads testers to spread their attention too thin. They try to understand everything at once and end up feeling behind everywhere.
+
+The truth is simpler: **not everything deserves equal focus**, especially early on.
+
+In your first QA project, what matters most is not speed or volume. It’s **orientation**.
+
+You need to understand:
+- What this product is trying to do
+- Who uses it
+- Where failure would hurt the most
+
+Without this context, even well-executed testing can miss the point.
+
+Early testers often rush to prove value by doing more—more test cases, more bugs, more updates. But value in QA is not about noise. It’s about relevance.
+
+If you’re unsure where to focus, start with these questions:
+- Which features are most visible to users?
+- Which areas change frequently?
+- Which failures would cause embarrassment or loss?
+
+These areas usually deserve more attention than edge cases or rarely used flows.
+
+Another important focus early on is **learning how the team works**. Every team has its rhythm, its priorities, and its communication style. Understanding when to raise concerns, how decisions are made, and who needs what information is just as important as understanding the product.
+
+This also means accepting that you won’t understand everything immediately.
+
+You will miss things.  
+You will misunderstand requirements.  
+You will ask questions that seem obvious in hindsight.
+
+That’s normal.
+
+What matters is whether you are learning from each iteration. Over time, patterns emerge. You start to anticipate risks. You recognize where problems usually surface. That’s when QA work begins to feel less reactive and more intentional.
+
+It’s also important to resist the pressure to specialize too quickly. In your first projects, breadth matters more than depth. Exposure to different types of testing, environments, and discussions builds a foundation you’ll rely on later.
+
+If you ever feel unsure about whether you’re doing enough, pause and ask:
+*Am I learning the product and reducing uncertainty for the team?*
+
+If the answer is yes, you’re on the right path—even if your task list feels modest.
+
+In the next chapter, we’ll look at common mistakes many testers make early on—not to criticize, but to help you recognize and avoid patterns that slow growth.
+
+---
+
