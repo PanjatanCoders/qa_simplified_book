@@ -117,3 +117,62 @@ You start focusing on clarity instead of coverage numbers.
 And that shift—from ownership of outcomes to ownership of visibility—is what separates sustainable QA careers from exhausting ones.
 
 In the next chapter, we’ll look at the other side of this coin: **what QA is not responsible for**, and why understanding that boundary is just as important.
+
+---
+
+## Chapter 3  
+### What QA Is *Not* Responsible For
+
+Understanding what QA is responsible for is only half the picture.  
+The other half—often more important—is understanding what QA is *not* responsible for.
+
+Many testers struggle not because they lack skill, but because they silently carry responsibilities that were never meant to be theirs.
+
+Let’s clear that up.
+
+QA is **not** responsible for writing perfect requirements.  
+QA works with what exists, asks questions, and highlights gaps—but does not own requirement quality.
+
+QA is **not** responsible for fixing bugs.  
+QA reports issues clearly and verifies fixes, but the act of fixing belongs to development.
+
+QA is **not** responsible for unrealistic timelines.  
+If testing time is compressed due to planning decisions, QA adapts and communicates risk—but does not absorb blame for schedule pressure.
+
+QA is **not** responsible for last-minute scope changes.  
+When features change close to release, QA reassesses coverage and communicates impact. That impact is a consequence of change, not a testing failure.
+
+These boundaries are rarely written down. They’re learned through experience, frustration, and sometimes burnout.
+
+One of the most damaging assumptions early testers make is this:
+*If something goes wrong, it must be QA’s fault.*
+
+In reality, most project issues are systemic. They arise from trade-offs—speed over coverage, features over stability, deadlines over depth. QA does not control these trade-offs. QA observes and communicates their effects.
+
+Another common misconception is that QA must always “block the release” if something feels wrong. In practice, release decisions are business decisions. QA’s role is to **inform**, not to enforce.
+
+A professional QA does not say:
+> “We cannot release.”
+
+A professional QA says:
+> “Here is what we know. Here are the risks. Here is what remains untested.”
+
+What happens next is a collective decision.
+
+This distinction matters because it shifts QA from being a gatekeeper to being a trusted advisor. And advisors are heard more often than gatekeepers.
+
+It’s also important to understand that QA is not responsible for how seriously others take quality. You can communicate clearly, document risks, and raise concerns—but you cannot force priorities. Carrying that emotional weight leads to frustration and disengagement.
+
+Healthy QA careers are built on **clear ownership boundaries**.
+
+You do your part:
+- You test with intent
+- You communicate with clarity
+- You raise risks early and honestly
+
+And then you let go of what is outside your control.
+
+This doesn’t make you careless.  
+It makes you sustainable.
+
+In the next chapter, we’ll address a belief that quietly feeds many of these misunderstandings: the idea that tools alone make someone a good tester—and why that belief causes more harm than help.
