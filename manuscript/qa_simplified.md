@@ -8,7 +8,7 @@ Not to promise shortcuts.
 
 It was written because many QA testers feel confused long before they feel confident—and no one tells them that this confusion is normal.
 
-Most learning resources focus on tools, processes, and techniques. Very few talk about what QA work *feels like* in real projects: the ambiguity, the trade-offs, the moments where there is no clearly right answer.
+Most learning resources focus on tools, processes, and techniques. Very few talk about what QA work *actually feels like* in real projects: the ambiguity, the trade-offs, the moments where there is no clearly right answer.
 
 This book exists to fill that gap.
 
@@ -138,9 +138,9 @@ This also means QA is not solely responsible for quality. Quality is a shared ou
 
 Once you internalize this, a lot of pressure disappears.
 
-You stop trying to be perfect.  
-You stop taking blame personally.  
-You start focusing on clarity instead of coverage numbers.
+You stop trying to be perfect.
+You stop taking blame for outcomes personally.
+You start focusing on understanding instead of coverage numbers.
 
 And that shift—from ownership of outcomes to ownership of visibility—is what separates sustainable QA careers from exhausting ones.
 
@@ -304,7 +304,7 @@ Thinking like QA means:
 
 It also means accepting that not all work looks productive on a dashboard. Sometimes the most valuable QA contribution is a conversation, a warning, or a pause before rushing forward.
 
-Acting without thinking leads to checkbox testing.  
+Acting without thinking leads to checkbox testing—going through motions without understanding their purpose.
 Thinking without acting leads to paralysis.
 
 Good QA sits in the middle.
@@ -322,8 +322,8 @@ In the next chapter, we’ll challenge another common assumption: the idea that 
 
 ---
 
-## Chapter 6  
-### Why Test Cases Are Not the Point
+## Chapter 6
+### Why Test Cases Alone Don't Define Quality
 
 At some stage in most QA careers, test cases begin to feel like the center of everything.
 
@@ -367,7 +367,9 @@ If the answer is “it satisfies the process,” that may be acceptable—but it
 
 When test cases are treated as the point, QA becomes mechanical. When they are treated as one of many tools, QA becomes thoughtful.
 
-In the next chapter, we’ll move from structure to communication and explore how bug reports, conversations, and context often matter more than the number of issues logged.
+Understanding *what* to test is only part of the work. The other part—often more impactful—is how you communicate what you find. A well-tested feature means little if critical issues are lost in translation.
+
+In the next chapter, we'll explore how bug reports, conversations, and context often matter more than the number of issues logged.
 
 ---
 
@@ -501,13 +503,13 @@ One common mistake is equating **busyness with value**. Many early testers try t
 
 Another frequent mistake is assuming that **more detail always equals better QA**. Extremely long test cases, overly verbose bug reports, and excessive documentation can actually hide what matters. Clarity is more valuable than volume. When everything is detailed, nothing stands out.
 
-Some testers also fall into the trap of **avoiding questions to appear competent**. They worry that asking questions will make them look inexperienced. In reality, silence creates more problems than curiosity. Teams trust testers who ask thoughtful questions far more than testers who quietly guess.
+Some testers also fall into the trap of **avoiding questions to appear competent**. They worry that asking questions will make them look inexperienced. For example, when a tester encounters unclear acceptance criteria but proceeds to execute tests anyway, they often waste time testing the wrong scenarios—then have to redo the work later. In reality, silence creates more problems than curiosity. Teams trust testers who ask thoughtful questions far more than testers who quietly guess.
 
 There’s also a tendency to take feedback personally. When a bug is questioned, deferred, or closed as “won’t fix,” it can feel like rejection. But most of the time, it’s a business decision, not a judgment on your ability. Learning to separate your work from your identity is an important professional skill.
 
 Another mistake is trying to **specialize too early**. Some testers rush into automation or performance testing before they understand products, workflows, and risk. Specialization makes sense later. Early on, understanding how systems behave matters more than mastering a specific tool.
 
-Finally, many early testers underestimate the importance of **communication timing**. Raising a concern too late—even if it’s valid—reduces its impact. QA effectiveness is not just about what you say, but *when* you say it.
+Finally, many early testers underestimate the importance of **communication timing**. Consider a tester who discovers a significant architectural issue two days before release. The concern is valid, but timing makes it nearly impossible to address. Had the same issue been raised during design review, it could have been resolved early. QA effectiveness is not just about what you say, but *when* you say it.
 
 None of these mistakes mean you’re failing. They mean you’re learning.
 
@@ -546,13 +548,13 @@ Confidence is the result of repeated exposure to real projects, real constraints
 
 This is why experienced testers often appear calm even under pressure. They’ve learned that uncertainty is normal. They don’t rush to prove value. They focus on providing clarity where it’s needed most.
 
-It’s also important to understand that confidence does not mean being loud or dominant. Some of the most effective QA professionals are quiet, thoughtful, and precise. Their confidence comes from understanding context, not from asserting authority.
+It's also important to understand that confidence does not mean being loud or dominant. Some of the most effective QA professionals are quiet, thoughtful, and precise. Their confidence comes from understanding context, not from asserting authority.
 
 If you take one idea from this book, let it be this:
 
 > Your job as a QA professional is not to eliminate uncertainty, but to make it visible and manageable.
 
-When you focus on that responsibility, the rest begins to fall into place. Tools make more sense. Processes feel less rigid. Decisions feel less personal.
+Once you embrace that principle, the rest begins to fall into place. Tools make more sense. Processes feel less rigid. Decisions feel less personal.
 
 QA stops feeling like a role you have to defend—and starts feeling like a contribution you understand.
 
